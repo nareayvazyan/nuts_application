@@ -28,8 +28,6 @@ A simple Java Spring Boot application that subscribes to a RabbitMQ queue , proc
 1. Start RabbitMQ and PostgreSQL locally.
 
 2. Configure `src/main/resources/application.properties` file
-   ```
-
 3. Build and run the application:
    ```bash
    mvn clean install
